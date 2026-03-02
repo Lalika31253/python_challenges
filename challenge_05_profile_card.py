@@ -1,7 +1,7 @@
 name = str(input("Enter your name: "))
 age = int(input("Enter your age: "))
 height = float(input("Enter your height in metres: "))
-fav_namber = int(input("Enter tour favorete number: "))
+fav_namber = int(input("Enter tour favorite number: "))
 
 cm_height = height * 100
 

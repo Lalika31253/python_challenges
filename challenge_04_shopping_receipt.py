@@ -7,7 +7,7 @@ price2 = float(input("Enter price: "))
 third_item = input("Enter item 3: ")
 price3 = float(input("Enter price: "))
 
-total = price1 + price2 + price3
+total = float(price1 + price2 + price3)
 
 print(f"--------------------------")
 print (f"{first_item}    ${price1}")
