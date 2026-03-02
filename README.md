@@ -34,10 +34,10 @@
 #### **Concepts**: input(), float(), int(), f-strings, basic arithmetic, string alignment.
 
 #### **🎯Goal**: Ask the user for 3 item names and their prices, then print a formatted receipt with a total.
-![Challenge_shoping_receipt Screenshot](images/challenge_4/shoping_receipt_1.png)
+![Challenge_shoping_receipt Screenshot](images/challenge_4/shopping_receipt_1.png)
 
 #### **Result**
-![Challenge_shoping_receipt Screenshot](images/challenge_4/shoping_receipt_2.png)
+![Challenge_shoping_receipt Screenshot](images/challenge_4/shopping_receipt_2.png)
 
 
 ## 🔁 Challenge 5 — Profile Card
